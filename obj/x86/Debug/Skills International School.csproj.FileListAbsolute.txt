@@ -1,0 +1,44 @@
+C:\Users\ACER\Desktop\Team Alpha\Skills International School\Skills International School\bin\Debug\Skills International School.exe
+C:\Users\ACER\Desktop\Team Alpha\Skills International School\Skills International School\bin\Debug\Skills International School.pdb
+C:\Users\ACER\Desktop\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.Properties.Resources.resources
+C:\Users\ACER\Desktop\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills International School.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills International School.exe
+C:\Users\ACER\Desktop\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills International School.pdb
+C:\Users\ACER\Desktop\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.frmlogin.resources
+C:\Users\ACER\Desktop\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.frmch.resources
+C:\Users\ACER\Desktop\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.frmapplication.resources
+C:\Users\ACER\Desktop\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.MDIParent1.resources
+C:\Users\KTP\Desktop\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills International School.exe
+C:\Users\KTP\Desktop\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills International School.pdb
+C:\Users\KTP\Desktop\Team Alpha\Skills International School\Skills International School\bin\Debug\Skills International School.exe
+C:\Users\KTP\Desktop\Team Alpha\Skills International School\Skills International School\bin\Debug\Skills International School.pdb
+C:\Users\KTP\Desktop\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.frmlogin.resources
+C:\Users\KTP\Desktop\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.frmapplication.resources
+C:\Users\KTP\Desktop\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.frmch.resources
+C:\Users\KTP\Desktop\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.MDIParent1.resources
+C:\Users\KTP\Desktop\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.Properties.Resources.resources
+C:\Users\KTP\Desktop\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills International School.csproj.GenerateResource.Cache
+C:\Users\HPC\Desktop\Team Alpha\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills International School.exe
+C:\Users\HPC\Desktop\Team Alpha\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills International School.pdb
+C:\Users\HPC\Desktop\Team Alpha\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.frmlogin.resources
+C:\Users\HPC\Desktop\Team Alpha\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.frmapplication.resources
+C:\Users\HPC\Desktop\Team Alpha\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.frmch.resources
+C:\Users\HPC\Desktop\Team Alpha\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.MDIParent1.resources
+C:\Users\HPC\Desktop\Team Alpha\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.Properties.Resources.resources
+C:\Users\HPC\Desktop\Team Alpha\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills International School.csproj.GenerateResource.Cache
+C:\Users\HPC\Desktop\Team Alpha\Team Alpha\Skills International School\Skills International School\bin\Debug\Skills International School.exe
+C:\Users\HPC\Desktop\Team Alpha\Team Alpha\Skills International School\Skills International School\bin\Debug\Skills International School.pdb
+C:\Users\HPC\Desktop\Team Alpha\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills International School.csprojResolveAssemblyReference.cache
+D:\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills International School.exe
+D:\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills International School.pdb
+D:\Team Alpha\Skills International School\Skills International School\bin\Debug\Skills International School.exe
+D:\Team Alpha\Skills International School\Skills International School\bin\Debug\Skills International School.pdb
+D:\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.frmlogin.resources
+D:\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.frmapplication.resources
+D:\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.frmch.resources
+D:\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.MDIParent1.resources
+D:\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills_International_School.Properties.Resources.resources
+D:\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills International School.csproj.GenerateResource.Cache
+D:\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills International School.csproj.AssemblyReference.cache
+D:\Team Alpha\Skills International School\Skills International School\obj\x86\Debug\Skills International School.csproj.CoreCompileInputs.cache
+D:\Team Alpha\Skills International School\Skills International School\bin\Debug\Skills International School.exe.config
